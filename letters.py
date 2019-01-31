@@ -24,12 +24,10 @@ letters = {
     'T': 'TTTTTTT \n  TTT   \n  TTT   \n  TTT   \n  TTT   \n        ',
     'U': 'UU   UU \nUU   UU \nUU   UU \nUU   UU \n UUUUU  \n        ',
     'V': 'VV     VV \nVV     VV \n VV   VV  \n  VV VV   \n   VVV    \n          ',
-    'W': '
-WW     WW \n
-    WW     WW \nWW  W  WW \n W WWW W  \n  W   W   \n           ',
-    'X': '',
-    'Y': '',
-    'Z': '',
+    'W': 'WW     WW \nWW     WW \nWW  W  WW \n  W WWW W  \n  W   W   \n           ',
+    'X': 'XX    XX \n XX  XX  \n  XXXX   \n XX  XX  \nXX    XX \n         ',
+    'Y': 'YY   YY \nYY   YY \n YYYYY  \n  YYY   \n  YYY   \n        ',
+    'Z': 'ZZZZZ \n   ZZ \n  ZZ  \n ZZ   \nZZZZZ \n      ',
     'a': '',
     'b': '',
     'c': '',
