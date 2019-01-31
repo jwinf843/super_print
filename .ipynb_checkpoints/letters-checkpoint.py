@@ -1,3 +1,6 @@
+# Letters come from the LETTERS font here:
+# http://patorjk.com/software/taag/#p=display&f=Letters&t=U
+
 letters = {
     'A': '  AAA   \n AAAAA  \nAA   AA \nAAAAAAA \nAA   AA \n        ',
     'B': 'BBBBB   \nBB   B  \nBBBBBB  \nBB   BB \nBBBBBB  \n        ',
@@ -13,63 +16,63 @@ letters = {
     'L': 'LL      \nLL      \nLL      \nLL      \nLLLLLLL \n        ', 
     'M': 'MM    MM \nMMM  MMM \nMM MM MM \nMM    MM \nMM    MM \n         ',
     'N': 'NN   NN \nNNN  NN \nNN N NN \nNN  NNN \nNN   NN \n        ,
-    'O': ''
-    'P': ''
-    'Q': ''
-    'R': ''
-    'S': ''
-    'T': ''
-    'U': ''
-    'V': ''
-    'W': ''
-    'X': ''
-    'Y': ''
-    'Z': ''
-    'a': ''
-    'b': ''
-    'c': ''
-    'd': ''
-    'e': ''
-    'f': ''
-    'g': ''
-    'h': ''
-    'i': ''
-    'j': ''
-    'k': ''
-    'l': ''
-    'm': ''
-    'n': ''
-    'o': ''
-    'p': ''
-    'q': ''
-    'r': ''
-    's': ''
-    't': ''
-    'u': ''
-    'v': ''
-    'w': ''
-    'x': ''
-    'y': ''
-    'z': ''
-    ' ': ''
-    ',': ''
-    '.': ''
-    '!': ''
-    '?': ''
-    '"': ''
-    "'": ''
-    '-': ''
-    '_': ''
-    '=': ''
-    '<': ''
-    '>': ''
-    '@': ''
-    '#': ''
-    '$': ''
-    '%': ''
-    '^': ''
-    '&': ''
-    '*': ''
-    '(': ''
-    ')': ''
+    'O': ' OOOOO  \nOO   OO \nOO   OO \nOO   OO \n OOOO0  \n        ',
+    'P': 'PPPPPP  \nPP   PP \nPPPPPP  \nPP      \nPP      \n        ',
+    'Q': ' QQQQQ  \nQQ   QQ \nQQ   QQ \nQQ  QQ  \n QQQQ Q \n        ',
+    'R': 'RRRRRR  \nRR   RR \nRRRRRR  \nRR  RR  \nRR   RR \n        ',
+    'S': ' SSSSS  \nSS      \n SSSSS  \n     SS \n SSSSS  \n        ',
+    'T': 'TTTTTTT \n  TTT   \n  TTT   \n  TTT   \n  TTT   \n        ',
+    'U': 'UU   UU \nUU   UU \nUU   UU \nUU   UU \n UUUUU  \n        ',
+    'V': 'VV     VV \nVV     VV \n VV   VV  \n  VV VV   \n   VVV    \n          ',
+    'W': 'WW     WW \nWW     WW \nWW  W  WW \n  W WWW W  \n  W   W   \n           ',
+    'X': 'XX    XX \n XX  XX  \n  XXXX   \n XX  XX  \nXX    XX \n         ',
+    'Y': 'YY   YY \nYY   YY \n YYYYY  \n  YYY   \n  YYY   \n        ',
+    'Z': 'ZZZZZ \n   ZZ \n  ZZ  \n ZZ   \nZZZZZ \n      ',
+    'a': '        \n  aa aa \n aa aaa \naa  aaa \n aaa aa \n        ',
+    'b': 'bb      \nbb      \nbbbbbb  \nbb   bb \nbbbbbb  \n        ',
+    'c': '       \n  cccc \ncc     \ncc     \n ccccc \n       ',
+    'd': '     dd \n     dd \n dddddd \ndd   dd \n dddddd \n        ',
+    'e': '       \n  eee  \nee   e \neeeee  \n eeeee \n       ',
+    'f': ' fff \nff   \nffff \nff   \nff   \n     ',
+    'g': '        \n gggggg \ngg   gg \nggggggg \n     gg \n ggggg  ',
+    'h': 'hh      \nhh      \nhhhhhh  \nhh   hh \nhh   hh \n        ',
+    'i': 'iii \n    \niii \niii \niii \n    ',
+    'j': '  jjj \n      \n  jjj \n  jjj \n  jjj \njjjj  ',
+    'k': 'kk     \nkk  kk \nkkkkk  \nkk kk  \nkk  kk \n       ',
+    'l': 'lll \nlll \nlll \nlll \nlll     ',
+    'm': '            \nmm mm mmmm  \nmmm  mm  mm \nmmm  mm  mm \nmmm  mm  mm \n            ',
+    'n': '        \nnn nnn  \nnnn  nn \nnn   nn \nnn   nn \n        ',
+    'o': '       \n oooo  \noo  oo \noo  oo \n oooo  \n       ',
+    'p': '        \npp pp   \nppp  pp \npppppp  \npp      \npp      ',
+    'q': '        \n  qqqqq \nqq   qq \n qqqqqq \n     qq \n     qq ',
+    'r': '       \nrr rr  \nrrr  r \nrr     \nrr     \n       ',
+    's': '      \n sss  \ns     \n sss  \n    s \n sss  ',
+    't': 'tt    \ntt    \ntttt  \ntt    \n tttt \n      ',
+    'u': '        \nuu   uu \nuu   uu \nuu   uu \n uuuu u \n        ',
+    'v': '        \nvv   vv \n vv vv  \n  vvv   \n   v    \n        ',
+    'w': '           \nww      ww \nww      ww \n ww ww ww  \n  ww  ww   \n           ',
+    'x': '       \nxx  xx \n  xx   \n  xx   \nxx  xx \n       ',
+    'y': '        \nyy   yy \nyy   yy \n yyyyyy \n     yy \n yyyyy  ',
+    'z': '      \nzzzzz \n  zz  \n zz   \nzzzzz \n      ',
+    ' ': '',
+    ',': '',
+    '.': '',
+    '!': '',
+    '?': '',
+    '"': '',
+    "'": '',
+    '-': '',
+    '_': '',
+    '=': '',
+    '<': '',
+    '>': '',
+    '@': '',
+    '#': '',
+    '$': '',
+    '%': '',
+    '^': '',
+    '&': '',
+    '*': '',
+    '(': '',
+    ')': '',
 }
